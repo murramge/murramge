@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome🍒🐿%20Github&fontSize=80&fontColor=FFFFFF&fontAlignY=30&animation=twinkling&desc=you%20can%20see%20the%20code%20i%20worked%20on✨&descAlignY=55&descSize=30)
-
  <h3 align="center">🧑🏻‍💻 Tech Stack 👩🏻‍💻</h3>
  
  <p align="center"> I've used at least once </p>
