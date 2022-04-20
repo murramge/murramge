@@ -8,7 +8,7 @@
  </p>
   <h3 align="center">🐿 Contact Me🍒</h3>
   
-  <p align="center"> click 👇 </p>
+  <p align="center"> 👇 click 👇 </p>
   
  <p align="center">
  <a href="mailto:murramge@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murramge@gmail.com"/></a>&nbsp
