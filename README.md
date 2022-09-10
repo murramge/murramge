@@ -8,9 +8,8 @@
  </p>
   <h3 align="center">🐿 Contact Me🍒</h3>
   
-  <p align="center"> 👇  click 👇 </p>
+  <p align="center">  click </p>
   
  <p align="center">
  <a href="mailto:murramge@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murramge@gmail.com"/></a>&nbsp
-<a href="https://www.instagram.com/cherry_daram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cherry_daram/"/></a>&nbsp
 </p>
